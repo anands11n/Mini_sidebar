@@ -1,6 +1,6 @@
 # Web Development Mini Projects
 
-This repository contains my beginner web development practice projects. It is a collection of small HTML and CSS projects that I build while learning frontend development.
+This repository contains my beginner web development practice project. It is a collection of small HTML and CSS project files that I build while learning frontend development.
 
 ## 📂 Project Structure
 
