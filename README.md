@@ -2,14 +2,6 @@
 
 This repository contains my beginner web development practice project. It is a collection of small HTML and CSS project files that I build while learning frontend development.
 
-## 📂 Project Structure
-
-```
-├── index.html
-├── style.css
-└── README.md
-```
-
 ## 📌 Current Project
 
 ### Mini Navigation Sidebar
